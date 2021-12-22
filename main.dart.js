@@ -59828,7 +59828,7 @@ else return s.d}},
 $S:335}
 A.C2.prototype={
 I(a,b){var s=null,r=$.mF(),q=A.az(b).a0,p=new A.cX(A.f7(q.a),A.f7(q.b),A.f7(q.c),A.f7(q.d),A.f7(q.e),A.f7(q.f),A.f7(q.r),A.f7(q.x),A.f7(q.y),A.f7(q.z),A.f7(q.Q),A.f7(q.ch),A.f7(q.cx)).YN(B.i)
-return new A.ro(new A.BL(new A.b9(s,t.gW),s),"Dashboard",A.aeo(s,new A.tG(A.aO([B.ap,new A.nj(),B.ay,new A.nj()],t.oH,t.pY)),r,p),!1,s)}}
+return new A.ro(new A.BL(new A.b9(s,t.gW),s),"WasteSort Penhold",A.aeo(s,new A.tG(A.aO([B.ap,new A.nj(),B.ay,new A.nj()],t.oH,t.pY)),r,p),!1,s)}}
 A.k1.prototype={}
 A.a73.prototype={
 $1(a){return this.a},
@@ -60389,7 +60389,7 @@ s=$.mF()
 r=t.p
 q=A.c([],r)
 if(b.R(o).f.a.a<768){o=$.dd()
-q.push(A.be(A.c([A.bS(p,A.be(A.c([A.O(p,30,p),A.cg(A.c([A.by("lib/assets/images/PenholdWasteSort.png",B.L,30,30),A.O(p,p,5),A.aQ("WasteSort Penhold",p,p,p,A.G(p,p,B.k,p,p,p,p,p,p,p,p,18,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p)],r),B.A,B.cI,B.n),A.aQ("Version 2.1.2",p,p,p,A.G(p,p,B.k,p,p,p,p,p,p,p,p,11,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p)],r),B.A,B.m,B.n),o,p,p,120,p,new A.aV(20,20,20,20),1/0),A.O(p,5,p)],r),B.A,B.m,B.n))}o=$.pX()
+q.push(A.be(A.c([A.bS(p,A.be(A.c([A.O(p,5,p),A.cg(A.c([A.by("lib/assets/images/PenholdWasteSort.png",B.L,30,30),A.O(p,p,5),A.aQ("WasteSort Penhold",p,p,p,A.G(p,p,B.k,p,p,p,p,p,p,p,p,18,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p)],r),B.A,B.cI,B.n),A.aQ("Version 2.1.2",p,p,p,A.G(p,p,B.k,p,p,p,p,p,p,p,p,11,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p)],r),B.A,B.m,B.n),o,p,p,100,p,new A.aV(20,20,20,20),1/0),A.O(p,5,p)],r),B.A,B.m,B.n))}o=$.pX()
 r=B.d.aS(25.5)
 o=o.a
 q.push(new A.A9(A.aC(r,o>>>16&255,o>>>8&255,o&255),p))
